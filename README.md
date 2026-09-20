@@ -10,6 +10,8 @@
 
 ### Method 1 - PowerShell ❤️
 
+OriginalProductKey Lenovo P1  7N3RK-VY6C6-82DPM-2M49P-76DW6
+
 1. Click the **Start Menu**, type `PowerShell`, and open it.
 
 2. Copy and paste the code below and press **Enter.**  
