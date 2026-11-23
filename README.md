@@ -82,5 +82,5 @@ OriginalProductKey Lenovo P1  7N3RK-VY6C6-82DPM-2M49P-76DW6
 
 ---
 
-Latest Version: 3.9  
-Release date: 19-Nov-2025
+Latest Version: 3.14  
+Release date: 11-Nov-2026
